@@ -1,0 +1,1 @@
+[28-Nov-2022 15:42:51 America/Lima] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /var/www/html/public_html/see/ws/vfpswscpe.php on line 101

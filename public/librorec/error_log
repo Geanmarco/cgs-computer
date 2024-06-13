@@ -1,0 +1,72 @@
+[01-Apr-2024 22:48:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php:7
+Stack trace:
+#0 /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php(7): mysqli_connect()
+#1 /home/unlf0igw1d28/public_html/public_html/public/librorec/libro.php(4): include('/home/unlf0igw1...')
+#2 {main}
+  thrown in /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php on line 7
+[03-Apr-2024 19:10:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php:7
+Stack trace:
+#0 /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php(7): mysqli_connect()
+#1 /home/unlf0igw1d28/public_html/public_html/public/librorec/libro.php(4): include('/home/unlf0igw1...')
+#2 {main}
+  thrown in /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php on line 7
+[03-Apr-2024 23:55:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php:7
+Stack trace:
+#0 /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php(7): mysqli_connect()
+#1 /home/unlf0igw1d28/public_html/public_html/public/librorec/libro.php(4): include('/home/unlf0igw1...')
+#2 {main}
+  thrown in /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php on line 7
+[06-Apr-2024 21:43:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php:7
+Stack trace:
+#0 /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php(7): mysqli_connect()
+#1 /home/unlf0igw1d28/public_html/public_html/public/librorec/libro.php(4): include('/home/unlf0igw1...')
+#2 {main}
+  thrown in /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php on line 7
+[12-Apr-2024 15:35:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php:7
+Stack trace:
+#0 /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php(7): mysqli_connect()
+#1 /home/unlf0igw1d28/public_html/public_html/public/librorec/libro.php(4): include('/home/unlf0igw1...')
+#2 {main}
+  thrown in /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php on line 7
+[12-Apr-2024 16:17:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php:7
+Stack trace:
+#0 /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php(7): mysqli_connect()
+#1 /home/unlf0igw1d28/public_html/public_html/public/librorec/libro.php(4): include('/home/unlf0igw1...')
+#2 {main}
+  thrown in /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php on line 7
+[12-Apr-2024 16:17:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php:7
+Stack trace:
+#0 /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php(7): mysqli_connect()
+#1 /home/unlf0igw1d28/public_html/public_html/public/librorec/libro.php(4): include('/home/unlf0igw1...')
+#2 {main}
+  thrown in /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php on line 7
+[12-Apr-2024 16:18:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php:7
+Stack trace:
+#0 /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php(7): mysqli_connect()
+#1 /home/unlf0igw1d28/public_html/public_html/public/librorec/libro.php(4): include('/home/unlf0igw1...')
+#2 {main}
+  thrown in /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php on line 7
+[12-Apr-2024 16:18:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php:7
+Stack trace:
+#0 /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php(7): mysqli_connect()
+#1 /home/unlf0igw1d28/public_html/public_html/public/librorec/libro.php(4): include('/home/unlf0igw1...')
+#2 {main}
+  thrown in /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php on line 7
+[12-Apr-2024 16:18:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php:7
+Stack trace:
+#0 /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php(7): mysqli_connect()
+#1 /home/unlf0igw1d28/public_html/public_html/public/librorec/libro.php(4): include('/home/unlf0igw1...')
+#2 {main}
+  thrown in /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php on line 7
+[12-Apr-2024 16:21:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php:7
+Stack trace:
+#0 /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php(7): mysqli_connect()
+#1 /home/unlf0igw1d28/public_html/public_html/public/librorec/libro.php(4): include('/home/unlf0igw1...')
+#2 {main}
+  thrown in /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php on line 7
+[12-Apr-2024 16:21:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php:7
+Stack trace:
+#0 /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php(7): mysqli_connect()
+#1 /home/unlf0igw1d28/public_html/public_html/public/librorec/libro.php(4): include('/home/unlf0igw1...')
+#2 {main}
+  thrown in /home/unlf0igw1d28/public_html/public_html/public/librorec/BD.php on line 7
